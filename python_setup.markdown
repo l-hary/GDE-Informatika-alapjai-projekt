@@ -16,7 +16,7 @@ The purpose of this document is to assist the reader with setting up a local dev
 
 ## Installing Python
 
-Up until now you've probably installed files by searching for the installer in your preferred search engine (most likely Google), downloading and then running the installer. While this is one solution, one common traits of programmers is that we like to automate and simplify things. You can easily simplify software installations and updates by using a package manager like `winget`. 
+Up until now you've probably installed programs by searching for the installer in your preferred search engine (most likely Google), downloading and then running the installer. While this is one solution, one common traits of programmers is that we like to automate and simplify things. You can easily simplify software installations and updates by using a package manager like `winget`. 
 {: .justified}
 
 Installation instructions assume that you are using Windows and have administrator rights. 
