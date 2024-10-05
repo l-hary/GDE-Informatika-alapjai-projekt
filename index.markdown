@@ -6,6 +6,7 @@ layout: default
 ---
 
 [Adatb feladatok](./feladatok_01/)
+
 [Python setup](python_setup.markdown)
 
 [About](about.markdown)
