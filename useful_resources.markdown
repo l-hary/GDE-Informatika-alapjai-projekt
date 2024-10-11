@@ -25,7 +25,7 @@ Harvard CS50 is an introductory computer science course offered by Harvard Unive
 
 ## DevDocs.io
 
-DevDocs.io is an online documentation platform designed for developers, providing fast access to programming documentation and API references for various languages and frameworks. Key features include:
+[DevDocs.io](https://devdocs.io/) is an online documentation platform designed for developers, providing fast access to programming documentation and API references for various languages and frameworks. Key features include:
 {: .justified}
 
 - Comprehensive Documentation: It aggregates documentation for multiple programming languages and frameworks, such as JavaScript, Python, HTML, and CSS.
