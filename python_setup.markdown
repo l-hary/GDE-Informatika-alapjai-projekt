@@ -2,7 +2,7 @@
 layout: default
 title: Python Setup
 ---
-# Python setup
+# Python Setup
 
 ## Introduction
 
