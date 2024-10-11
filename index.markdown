@@ -5,8 +5,6 @@
 layout: default
 ---
 
-[Adatb feladatok](https://github.com/l-hary/GDE-Informatika-alapjai-projekt/tree/main/feladatok)
-
 [Python setup](python_setup.markdown)
 
 [About](about.markdown)
