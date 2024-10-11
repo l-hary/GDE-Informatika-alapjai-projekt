@@ -3,8 +3,10 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default
+title: Home
 ---
 
-[Python setup](python_setup.markdown)
-
-[About](about.markdown)
+# Sitemap:
+- ### [Python setup](python_setup.markdown)
+- ### [Useful Resources](useful_resources.markdown)
+- ### [About](about.markdown)
