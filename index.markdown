@@ -6,11 +6,6 @@ layout: default
 title: Home
 ---
 
-# Sitemap:
-- ### [Python Setup](python_setup.markdown)
-- ### [Useful Resources](useful_resources.markdown)
-- ### [About](about.markdown)
-
 # Introduction
 
 This project has two primary goals: to learn something new and to create a useful resource for my fellow students. As I was already familiar with Google Sites, I wanted a more challenging platform so I chose GitHub Pages. Although it offers templates similar to Google Sites, using them involves more complexity due to Jekyll, a static site generator that requires local setup. Additionally, customizing Jekyll requires HTML and CSS knowledge. Gaining some familiarity with those will come in handy in the future.

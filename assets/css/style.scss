@@ -6,3 +6,26 @@
 .justified {
     text-align: justify;
 }
+
+.main-nav ul {
+    list-style-type: none; /* Remove default list styling */
+    padding: 0; /* Remove default padding */
+    margin: 0; /* Remove default margin */
+    display: flex; /* Use flexbox to align items horizontally */
+    justify-content: left; /* Center the navbar items */
+}
+
+.main-nav ul li {
+    margin-right: 40px; /* Add some space between the items */
+}
+
+.main-nav ul li a {
+    text-decoration: none; /* Remove underline from links */
+    color: inherit; /* Inherit color from parent */
+    padding: 5px; /* Add padding for better click area */
+    border-radius: 5px; /* Add border radius for rounded corners */
+}
+
+.main-nav ul li a:hover {
+    background-color: gray; /* Change background color on hover */
+}
