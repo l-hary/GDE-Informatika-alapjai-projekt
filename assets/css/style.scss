@@ -12,7 +12,7 @@
     padding: 0; /* Remove default padding */
     margin: 0; /* Remove default margin */
     display: flex; /* Use flexbox to align items horizontally */
-    justify-content: left; /* Center the navbar items */
+    justify-content: center; /* Center the navbar items */
 }
 
 .main-nav ul li {
@@ -28,4 +28,10 @@
 
 .main-nav ul li a:hover {
     background-color: gray; /* Change background color on hover */
+}
+
+.header-container {
+    margin: 10px auto;
+    max-width: 600px;
+    text-align: center;
 }
