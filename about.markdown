@@ -13,6 +13,7 @@ The aim of this site is to showcase our understanding of web development fundame
 <a href="https://www.linkedin.com/in/l%C3%A1szl%C3%B3-h%C3%A1ry-297576ba/" target="_blank" style="text-decoration:none;">
     <i class="fab fa-linkedin" style="font-size: 24px; color: #0077B5;"></i> Laszlo Hary
 </a>
+<p>
 <a href="https://www.linkedin.com/in/norbert-bukur-aa8a82299/" target="_blank" style="text-decoration:none;">
     <i class="fab fa-linkedin" style="font-size: 24px; color: #0077B5;"></i> Bukur Norbert
 </a>
