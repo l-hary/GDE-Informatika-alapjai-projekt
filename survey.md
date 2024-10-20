@@ -1,6 +1,6 @@
 ---
 layout: default
-title: survey
+title: Survey
 permalink: /survey/
 ---
 # Survey
