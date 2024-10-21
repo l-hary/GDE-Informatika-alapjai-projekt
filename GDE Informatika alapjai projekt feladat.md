@@ -1,7 +1,7 @@
 ﻿
 
 
--^ # GDE Informatika alapjai projekt feladat 
+# GDE Informatika alapjai projekt feladat 
 
 **A Weboldal az alábbi linkre kattintva elérhető:**
 [GDE Informatika alapjai projekt feladat](https://l-hary.github.io/GDE-Informatika-alapjai-projekt/)
