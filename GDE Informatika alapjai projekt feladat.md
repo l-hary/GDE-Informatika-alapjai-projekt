@@ -1,7 +1,7 @@
 ﻿
 
 
-# GDE Informatika alapjai projekt feladat 
+-^ # GDE Informatika alapjai projekt feladat 
 
 **A Weboldal az alábbi linkre kattintva elérhető:**
 [GDE Informatika alapjai projekt feladat](https://l-hary.github.io/GDE-Informatika-alapjai-projekt/)
@@ -27,6 +27,7 @@ A harmadik menüpontban egy kis összegzés található a weblap felépítésér
 A negyedik menüpontra kattintva pedig egy google űrlap található, ahol találkozhatunk feleletválasztós, legördülő listás, valamint rövid válaszos kérdés típusokkal.
 
 **Projektfeladat résztvevői:**
+
 Hary László - GA790T  
 Bukur Norbert - NZIE3G  
 Palkó Bálint - GE243T  
