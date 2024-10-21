@@ -17,10 +17,11 @@ The aim of this site is to showcase our understanding of web development fundame
     <a href="https://www.linkedin.com/in/norbert-bukur-aa8a82299/" target="_blank" style="text-decoration:none;">
         <i class="fab fa-linkedin" style="font-size: 24px; color: #0077B5;"></i> Bukur Norbert
     </a>
+</p>
     <a href= target="_blank" style="text-decoration:none;">
         <i class="fab fa-linkedin" style="font-size: 24px; color: #0077B5;"></i> Palkó Bálint
     </a>
-</p>
+
 <div class="pdf-container">
     <iframe src="{{ '/assets/presentation.pdf' | relative_url }}" width="100%" height="600px" frameborder="0"></iframe>
 </div>
