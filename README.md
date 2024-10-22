@@ -1,6 +1,7 @@
 # GDE Informatika alapjai projekt feladat 
 
 **A Weboldal az alábbi linkre kattintva elérhető:**
+
 [GDE Informatika alapjai projekt feladat](https://l-hary.github.io/GDE-Informatika-alapjai-projekt/)
 
 ## Weblap készítése: 
@@ -14,7 +15,7 @@ Az oldal a <a href=https://jekyllrb.com/>Jekyll</a> statikus weblapgenerátor ha
 A fejlécre kattintva a  kezdőlap jelenik meg egy rövid bemutatkozással. 
 </p>
 <p align="justify"> 
-A fejléc alat három hivatkozás található, ebből kettő az oldal elkészítéshez szükséges fájlokat teszi letölthetővé különböző formátumokban, a harmadik pedig az oldalhoz tartozó GitHub repositoryt nyitja meg.
+A fejléc alatt három hivatkozás található, ebből kettő az oldal elkészítéshez szükséges fájlokat teszi letölthetővé különböző formátumokban, a harmadik pedig az oldalhoz tartozó GitHub repositoryt nyitja meg.
 </p>
 <p align="justify"> 
 A fejléc utolsó eleme az oldal tartalmaira vezető négy menüpont. Ezek a közül az első Windows környezetben mutatja be Python és a VS Code telepítését. 
