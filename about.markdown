@@ -18,7 +18,7 @@ The aim of this site is to showcase our understanding of web development fundame
         <i class="fab fa-linkedin" style="font-size: 24px; color: #0077B5;"></i> Bukur Norbert
     </a>
 </p>
-<a href= target="_blank" style="text-decoration:none;">
+<a href="linkedin.com/in/bálint-palkó-7a35112ab/" target="_blank" style="text-decoration:none;">
     <i class="fab fa-linkedin" style="font-size: 24px; color: #0077B5;"></i> Palkó Bálint
 </a>
 
