@@ -22,6 +22,6 @@ The aim of this site is to showcase our understanding of web development fundame
     <i class="fab fa-linkedin" style="font-size: 24px; color: #0077B5;"></i> Palkó Bálint
 </a>
 
-<div class="pdf-container">
-    <iframe src="{{ '/assets/presentation.pdf' | relative_url }}" width="100%" height="600px" frameborder="0"></iframe>
+<div class="presentation-container">
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTaXi9M91JhNul-u0jmdZuV-VhaiOEaGtn5S6GAp614LGb4TF71mLgctlPF8fhpSw/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </div>
